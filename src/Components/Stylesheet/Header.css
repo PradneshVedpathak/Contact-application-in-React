@@ -1,0 +1,17 @@
+.Header {
+    background: lightpink;
+    margin: 0%;
+    padding: 1%;
+}
+
+.Header h1 {
+    text-align: center;
+    margin-right: 32px;
+    font-weight: bolder;
+}
+
+.Header button {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+}
